@@ -1,0 +1,22 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=Quantity~Integer~Quantity~100|Field=Value~String~Value~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~arm-radio.PrjPCB|ReportField=ProjectFullPath~C:\Users\Chulito\Dropbox\Zaya's share\PCB\Radio\arm-radio\arm-radio.PrjPCB|ReportField=Title~Bill of Materials For Project [arm-radio.PrjPCB] (No PCB Document Selected)|ReportField=TotalQuantity~47|ReportField=ReportTime~1:26:44|ReportField=ReportDate~26.08.2011|ReportField=ReportDateTime~26.08.2011 1:26:44|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~26.08.2011|ReportField=CurrentTime~1:26:43|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\Chulito\Dropbox\Zaya's share\PCB\Radio\arm-radio\core.SchDoc|ReportField=DocumentName~core.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~10.08.2011|ReportField=Organization~|ReportField=ProjectName~arm-radio.PrjPCB|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~arm-radio.PrjPCB|ReportField=DataSourceFullPath~C:\Users\Chulito\Dropbox\Zaya's share\PCB\Radio\arm-radio\arm-radio.PrjPCB
+27pF|Capacitor|C1, C3|INDC1005L|2|27pF
+100nF|Capacitor|C5, C6, C7, C8, C9, C10, C14|INDC1005L|7|100nF
+1uF|Capacitor|C11|INDC1005L|1|1uF
+Cap|Capacitor|C12, C13|INDC1005L|2|1uF
+22nF|Capacitor|C15|INDC1005L|1|22nF
+Antenna|Generic Antenna|E1|PIN1|1|
+Reset pins|Header, 2-Pin|P1|MHDR1X2|1|
+Boot pins|Header, 2-Pin|P2|MHDR1X2|1|
+1470695-2|USB 1.1, Right Angle, SMT, A Type, Plug, 4 Position, Natural|P3|1470695A|1|
+Header 3|Header, 3-Pin|P4|HDR1X3|1|
+Header 10X2|Header, 10-Pin, Dual row|P5|HDR2X10|1|
+47k|Resistor|R1, R3, R4, R15|RESC1005L|4|47k
+1M|Resistor|R2|RESC1005L|1|1M
+22|Resistor|R5, R6|RESC1005L|2|22
+600|Resistor|R7|RESC1005L|1|600
+2k|Resistor|R8, R9, R10, R11, R12, R13, R14|RESC1005L|7|2k
+10K|Resistor|R16, R17, R18, R19, R20, R21, R22, R23, R24|RESC1005L|9|10K
+STM32F103C8T6|STM32 ARM-based 32-bit MCU with 64 Kbytes Flash, 48-pin LQFP, Industrial Temperature|U1|LQFP48_N|1|
+ADP120||U2|SOT95P280X110-5L|1|
+Si4705||U4|QFN50P300X300X60-20N|1|
+8Mhz||Y1|HC-49-SMD|1|8Mhz
